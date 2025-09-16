@@ -1,4 +1,4 @@
-# Inventory Pro - Sistem Manajemen Bisnis
+# CERINO STUDIOS INVENTORY & SALES
 
 Aplikasi manajemen inventaris dan penjualan yang komprehensif dengan analitik bisnis dan proyeksi masa depan.
 
